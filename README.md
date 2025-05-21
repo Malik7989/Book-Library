@@ -25,5 +25,5 @@ Designed with an interactive UI, the site offers an Amazon-like experience for b
 - **Icons & Styling**: FontAwesome, Google Fonts  
 - **Deployment**: GitHub Pages  
 
-## 📂 Folder Structure
+
 
